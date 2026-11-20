@@ -10,5 +10,3 @@ Aplicación de lineas de comandos de python.
 
 # Uso
 python app.py
-
-[MOMASO](****)
