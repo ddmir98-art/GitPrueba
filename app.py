@@ -1,0 +1,9 @@
+from tareas import agregar_tarea,listar_tareas,eliminar_tareas
+
+agregar_tarea("Configurar git")
+print ( listar_tareas() )
+
+eliminar_tareas(0)
+print(listar_tareas())
+
+
