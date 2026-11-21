@@ -8,5 +8,8 @@ Aplicación de lineas de comandos de python.
 1. git clone https://github.com/ddmir98-art/GitPrueba.git
 2. python -m venv .venv y activa el entorno.
 
-# Uso
+## Uso
 python app.py
+
+## Fin
+Esto esta hecho con el fin de aprendizaje.
